@@ -1,0 +1,40 @@
+             
+                    <div data-role="content"  style="padding: 0%;" data-theme="a">
+                        <ul id="main"  class="ui-listview ui-listview-inset ui-corner-all ui-shadow" >
+                            
+                        </ul>
+                    </div>     
+                   <!-- jQuery Template -->
+		<script id="multiviewTemplate" type="text/x-jquery-tmpl">
+			<li id="multiview_cam_${id}" style="display: list-item;" class="multiview_cam">
+				<img width="640" height="480" src="${camDefaultImage}">
+				<div class="cam_data"></div>
+			</li>
+		</script>
+
+		<!-- jQuery Template -->
+		<script id="multiviewTitleTemplate" type="text/x-jquery-tmpl">
+			<div id="multiview_title_${id}" class="ui-li-divider ui-bar-a ui-first-child" >
+				<span class="title_name">${cameraName}</span>
+				<span class="title_stats">
+					${timeLastLoaded}
+					/ ${fps} fps
+					/ ${counts.load} &diams;
+				</span>
+			</div>
+		</script>
+
+		<!-- jQuery Template -->
+		<script id="singleviewTemplate" type="text/x-jquery-tmpl">
+			<div id="singleview_cam_${id}" class="singleview_cam">
+				<img width="640" height="480" src="${camDefaultImage}">
+				<div class="cam_stats"></div>
+			</div>
+		</script>
+
+		<!-- jQuery Template -->
+		<script id="singleviewStatsTemplate" type="text/x-jquery-tmpl">
+			<div id="singleview_stats_${id}" style="text-align:center" class="ui-li-divider ui-bar-a ui-first-child">
+			 ${cameraName} Requested on: ${timeLastLoadedRequested} Loaded on:</em> ${timeLastLoaded}	
+			</div>
+		</script>
