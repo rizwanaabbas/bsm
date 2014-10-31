@@ -43,13 +43,18 @@
 		<script type="text/javascript">
 		    function loadpage(page)
                     {
-                        
+                        controller = null;
                          if(localStorage.usertoken)
                         {
                           $('#loadpageid').load(page);
                           if(page==='cams.html')
                           {
-                           setTimeout(function(){init();}, 3000); 
+
+                           setTimeout(function(){
+                           controller = null;
+                           delete controller;
+                           init();
+                           }, 3000); 
                            $('#datadiv').css('background-color', 'black');
                           }
                           else
@@ -67,39 +72,40 @@
                     {
                       if(localStorage.usertoken)
                         {
-                          loadpage('home.html');
+			  controller = null;
+                          loadpage('cams.html');
                         }
                         else
                         {
                           loadpage('setting.html');
                         }     
                     };
-		          /*         $('#splash').live('pageshow', function(){
+		                   $('#splash').live('pageshow', function(){
                                 var hideSplash = function() {
                                    $.mobile.changePage($("#datadiv"));
                                    chklogin();
                                 };
                                setTimeout(hideSplash, 2000);
-                           }); */  
+                           });   
                                                             
 		</script>
 	</head>
-        <body onLoad="chklogin();">
-<!--         <div data-role="page" id="splash"> 
+        <body onload="chklogin();">
+        <div data-role="page" id="splash"> 
             <div data-role="content">  
                 <img src="img/bsm.png" alt="startup image" style="width: 100%; height: 100%" />
             </div>
-        </div> -->
+        </div>
 		<div id="datadiv" data-role="page" data-theme="a">
 			<div data-role="header" data-position="inline">
 				<h1>BSM</h1>
 				<div data-role="navbar">
 					<ul>
-						<li><a style="cursor: pointer;" data-icon="home" onClick="loadpage('home.html');" >Home</a></li>
-                                                <li><a style="cursor: pointer;" class="ui-btn-active" onClick="loadpage('cams.html');" data-icon="camera">CCTV</a></li>
-						<li><a style="cursor: pointer;" onClick="loadpage('automation.html');" data-icon="grid">Automation</a></li>
-						<li><a  style="cursor: pointer;" onClick="loadpage('tracker.html');"  data-icon="search">Tracker</a></li>
-						<li><a style="cursor: pointer;" onClick="loadpage('setting.html');"  data-icon="gear">SETTING</a></li>
+						<li><a style="cursor: pointer;" data-icon="home" onclick="loadpage('home.html');" >Home</a></li>
+                                                <li><a style="cursor: pointer;" onclick="loadpage('cams.html');" class="ui-btn-active"  data-icon="camera">CCTV</a></li>
+						<li><a style="cursor: pointer;" onclick="loadpage('automation.html');" data-icon="grid">Automation</a></li>
+						<li><a  style="cursor: pointer;" onclick="loadpage('tracker.html');"  data-icon="search">Tracker</a></li>
+						<li><a style="cursor: pointer;" onclick="loadpage('setting.html');"  data-icon="gear">SETTING</a></li>
 					</ul>
 				</div>
 			</div>
