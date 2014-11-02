@@ -62,7 +62,7 @@ function login(id)
                                                    // createCookie('fullname',data.firstname+' '+data.middlename+' '+data.lastname,'30');
                                                    // createCookie('useremail',data.useremail,'30');
                                                     //$("#afterlogin").show();
-                                                        loadpage('cams.html');                                                    
+                                                        loadpage('home.html');                                                    
                                                 }    
 
 }, "json");
