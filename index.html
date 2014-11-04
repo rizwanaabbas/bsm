@@ -15,12 +15,21 @@
 			user-scalable=no, target-densitydpi=high-dpi" />
 		<!-- Robots -->
 		<meta name="robots" content="noindex, nofollow" />
+                <meta name="mobile-web-app-capable" content="yes">
+                
+                <link rel="icon" sizes="192x192" href="app/img/bsm192.png"> (recommended)
+                <link rel="icon" sizes="128x128" href="app/img/bsm128.png">
+                <link rel="apple-touch-icon" sizes="128x128" href="app/img/bsm128.png">
+                <link rel="apple-touch-icon-precomposed" sizes="128x128" href="app/img/bsm128.png">
+
 		<link rel="stylesheet" href="theme/themes/css/Bootstrap.css">
 		<link rel="stylesheet" href="theme/themes/css/jquery.mobile.structure-1.4.0.min.css" />
 		<link rel="stylesheet" href="theme/themes/css/jquery.mobile.icons.min.css" />
+                <link rel="stylesheet" href="theme/themes/css/loader.css" />
 
 		<script src="theme/themes/js/jquery-1.8.2.min.js"></script>
 		<script src="theme/themes/js/jquery.mobile-1.4.0.min.js"></script>
+                <script src="theme/themes/js/jquery.loader.min.js"></script>
 		<script type="text/javascript" src="./app/lib/jquery.tmpl.js"></script>
 		<script type="text/javascript" src="./app/view.js"></script>
 		<script type="text/javascript" src="./app/controller.js"></script>
@@ -33,7 +42,16 @@
 			{
                             controller = new Controller();
 			};
-			$(document).ready(function() { 
+			$(document).ready(function() {
+                           // $("#splashimg").css('width', $(window).width());
+                            $("#splashimg").css('height', $(window).height()-100);
+                            
+                            $( document ).ajaxStart(function() {
+                            $(document).Loader('show');
+                            });
+                            $( document ).ajaxStop(function() {
+                               $(document).Loader('hide');
+                            });
                            // init(); 
                           //setTimeout(function(){init();}, 3000);  
                            // initialize();
@@ -49,18 +67,24 @@
                           $('#loadpageid').load(page);
                           if(page==='cams.html')
                           {
-
                            setTimeout(function(){
                            controller = null;
                            delete controller;
                            init();
-                           }, 3000); 
+                           }, 3000);
+                           $("#headerid").show();
                            $('#datadiv').css('background-color', 'black');
+                          }
+                          else if(page==='home.html')
+                          {
+                              $("#headerid").hide();
+                              $('#datadiv').css('background-color', 'black');
                           }
                           else
                           {
                                 controller = null;
                                 $('#datadiv').css('background-color', '#fff');
+                                $("#headerid").show();
                           }    
                         }
                         else
@@ -73,38 +97,42 @@
                       if(localStorage.usertoken)
                         {
 			  controller = null;
-                          loadpage('cams.html');
+                          loadpage('home.html');
                         }
                         else
                         {
                           loadpage('setting.html');
                         }     
                     };
-		                   $('#splash').live('pageshow', function(){
-                                var hideSplash = function() {
-                                   $.mobile.changePage($("#datadiv"));
-                                   chklogin();
-                                };
-                               setTimeout(hideSplash, 2000);
-                           });   
+                    $('#splash').live('pageshow', function(){
+                    var hideSplash = function() {
+                    $.mobile.changePage($("#datadiv"));
+                    $(document).Loader('hide'); 
+                    chklogin();
+                       };
+                    $('#splashimg').animate({opacity:.5},2000,function(){$(this).animate({opacity:1},600)});
+                    $(document).Loader('show');
+                    setTimeout(hideSplash, 5000);
+                       
+                    });   
                                                             
 		</script>
 	</head>
         <body onload="chklogin();">
-        <div data-role="page" id="splash"> 
-            <div data-role="content">  
-                <img src="img/bsm.png" alt="startup image" style="width: 100%; height: 100%" />
+            <div data-role="page" id="splash" style="background-color: #000;"  > 
+            <div data-role="content" style="text-align: center">  
+                <img src="app/img/bsm.png" id="splashimg" alt="startup image"  />
             </div>
         </div>
 		<div id="datadiv" data-role="page" data-theme="a">
-			<div data-role="header" data-position="inline">
+                    <div data-role="header" id="headerid" data-position="inline">
 				<h1>BSM</h1>
 				<div data-role="navbar">
 					<ul>
-						<li><a style="cursor: pointer;" data-icon="home" onclick="loadpage('home.html');" >Home</a></li>
-                                                <li><a style="cursor: pointer;" onclick="loadpage('cams.html');" class="ui-btn-active"  data-icon="camera">CCTV</a></li>
+					<!--	<li><a style="cursor: pointer;" data-icon="home" class="ui-btn-active" onclick="loadpage('home.html');" >Home</a></li>-->
+                                                <li><a style="cursor: pointer;" onclick="loadpage('cams.html');" data-icon="camera">CCTV</a></li>
 						<li><a style="cursor: pointer;" onclick="loadpage('automation.html');" data-icon="grid">Automation</a></li>
-						<li><a  style="cursor: pointer;" onclick="loadpage('tracker.html');"  data-icon="search">Tracker</a></li>
+						<li><a style="cursor: pointer;" onclick="loadpage('tracker.html');"  data-icon="search">Tracker</a></li>
 						<li><a style="cursor: pointer;" onclick="loadpage('setting.html');"  data-icon="gear">SETTING</a></li>
 					</ul>
 				</div>

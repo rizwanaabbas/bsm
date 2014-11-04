@@ -1,17 +1,11 @@
 <div data-role="content"  style="padding: 0%" data-theme="a">
-    <form method="post" >
-        <div data-role="fieldcontain" class="ui-field-contain">
-                <label for="name">Username:</label>
-                <div class="ui-input-text ui-body-inherit ui-corner-all ui-shadow-inset"><input type="text" autocomplete="off" id="username" placeholder="Username" name="username"></div>
+    <div style="text-align: center;">
+        <div data-role="fieldcontain" class="ui-field-contain" style="text-align: center;" >
         </div>
         <div data-role="fieldcontain" class="ui-field-contain">
-                <label for="password">Password:</label>
-                <div class="ui-input-text ui-body-inherit ui-corner-all ui-shadow-inset"><input type="password" id="password" autocomplete="off" placeholder="Password" name="password"></div>
+            <img src="app/img/home.png" style="width: 70px; height: auto; margin: 5px;" onclick="loadpage('automation.html');" />
+            <img src="app/img/camera.png" style="width: 70 px; height: 70px;margin: 5px; " onclick="loadpage('cams.html');" />
+            <img src="app/img/tracker.png" style="width: 70px; height: auto; margin: 5px;" onclick="loadpage('tracker.html');" />
         </div>
-        <div class="ui-body ui-body-b">
-                <fieldset class="ui-grid-a">
-                    <button data-theme="a" type="button" id="btn"  class="ui-btn ui-btn-a ui-shadow ui-corner-all">Login</button>
-            </fieldset>
-        </div>
-</form>
+</div>
 </div>  
