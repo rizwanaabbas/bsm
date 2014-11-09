@@ -28,6 +28,7 @@
                 <link rel="stylesheet" href="theme/themes/css/loader.css" />
 
 		<script src="theme/themes/js/jquery-1.8.2.min.js"></script>
+                
 		<script src="theme/themes/js/jquery.mobile-1.4.0.min.js"></script>
                 <script src="theme/themes/js/jquery.loader.min.js"></script>
 		<script type="text/javascript" src="./app/lib/jquery.tmpl.js"></script>
@@ -36,6 +37,18 @@
 		<script type="text/javascript" src="./app/camera.js"></script>
 		<script type="text/javascript" src="./app/queue.js"></script>
                 <link type="text/css" rel="stylesheet" href="./app/style.css" />
+                <!--  New Changing  -->
+                <link rel="stylesheet" href="theme/bootstrap/css/bootstrap.min.css">
+                <link rel="stylesheet" href="theme/bootstrap/css/plugins-2.0.css">
+                <link rel="stylesheet" href="theme/bootstrap/css/main-2.0.css">
+                <link rel="stylesheet" href="theme/bootstrap/css/themes-2.0.css">
+                <script src="theme/bootstrap/js/modernizr-2.8.3.min.js"></script>
+                <script src="theme/bootstrap/js/bootstrap.min.js"></script>
+                <script src="theme/bootstrap/js/plugins-2.0.js"></script>
+                <script src="theme/bootstrap/js/app-2.0.js"></script>
+                <script src="theme/bootstrap/js/readyLogin.js"></script>
+                <!----end new changing ---->
+<script>$(function(){ ReadyLogin.init(); });</script>
 		<script type="text/javascript">
 			controller = null;
 			function init() 
@@ -70,7 +83,8 @@
                            setTimeout(function(){
                            controller = null;
                            delete controller;
-                           init();
+                            init();
+                                
                            }, 3000);
                            $("#headerid").show();
                            $('#datadiv').css('background-color', 'black');
@@ -112,27 +126,42 @@
                        };
                     $('#splashimg').animate({opacity:.5},2000,function(){$(this).animate({opacity:1},600)});
                     $(document).Loader('show');
+                    function blink(selector){
+                                $(selector).fadeOut(1000, function(){
+                                $(this).fadeIn('slow', function(){
+                                blink(this);
+                                });
+                                });
+                    }
+
+                    //blink('#splashimg');
+                    //$('#titleid').animate();
                     setTimeout(hideSplash, 5000);
                        
                     });   
-                                                            
+                    function tbtn()
+                    {
+                        
+                    }
+                        
 		</script>
 	</head>
         <body onload="chklogin();">
             <div data-role="page" id="splash" style="background-color: #000;"  > 
             <div data-role="content" style="text-align: center">  
-                <img src="app/img/bsm.png" id="splashimg" alt="startup image"  />
+                <img src="app/img/bsm.png" id="splashimg" alt="startup image"/>
+                <span id="titleid" style="color: #ffffff; font-family: fantasy; font-size: larger;" >BSM TECHNOLOGIES</span>
             </div>
         </div>
 		<div id="datadiv" data-role="page" data-theme="a">
-                    <div data-role="header" id="headerid" data-position="inline">
-				<h1>BSM</h1>
-				<div data-role="navbar">
+                    <div data-role="header"  data-position="inline">
+                        <h1 style="font-size: 18px; font-weight: bold;  font-family: fantasy;" >BSM TECHNOLOGIES</h1>
+				<div data-role="navbar" id="headerid" >
 					<ul>
 					<!--	<li><a style="cursor: pointer;" data-icon="home" class="ui-btn-active" onclick="loadpage('home.html');" >Home</a></li>-->
-                                                <li><a style="cursor: pointer;" onclick="loadpage('cams.html');" data-icon="camera">CCTV</a></li>
-						<li><a style="cursor: pointer;" onclick="loadpage('automation.html');" data-icon="grid">Automation</a></li>
-						<li><a style="cursor: pointer;" onclick="loadpage('tracker.html');"  data-icon="search">Tracker</a></li>
+                                        <li><a style="cursor: pointer;" id="btncam" onclick="loadpage('cams.html');" data-icon="camera">CCTV</a></li>
+                                        <li><a style="cursor: pointer;" id="btnautomation" onclick="loadpage('automation.html');" data-icon="grid">Automation</a></li>
+                                        <li><a style="cursor: pointer;" id="btntracker" onclick="loadpage('tracker.html');"  data-icon="search">Tracker</a></li>
 						<li><a style="cursor: pointer;" onclick="loadpage('setting.html');"  data-icon="gear">SETTING</a></li>
 					</ul>
 				</div>

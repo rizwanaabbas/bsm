@@ -6,9 +6,9 @@
 
 .loader_container .loader_gif {
   position:absolute;
-  width:140px;
-  height:124px;
-  background:url('images/loading.gif') 0 0 no-repeat;
+  width:128px;
+  height:128px;
+  background:url('images/ajax-loader.png') 0 0 no-repeat;
  // z-index:1;
 }
 
@@ -32,4 +32,12 @@
 
 .loader_1 .loader_overflow {
   background:green;
+}
+form {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#afterlogin {
+    margin-left: 5%;
+    margin-right: 5%;   
 }

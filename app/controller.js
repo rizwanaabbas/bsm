@@ -36,7 +36,14 @@ function Controller()
 		// Load camera data. 
 		//$.getJSON('./mycameras.json', processJson);
 		//$.getJSON('./example.json', processJson);
-                $.getJSON('http://madebypakistan.com/projects/server/getdata.php?usertoken='+localStorage.usertoken, processJson);
+                
+                $.getJSON('http://madebypakistan.com/projects/server/getdata.php?usertoken='+localStorage.usertoken, processJson,function(data){
+    //console.log(data);
+})
+.fail(function( jqxhr, textStatus, error ) {
+    //console.log( "Requests Failed: " + textStatus + ', ' + error);
+    $('#loadpageid').load('nointernet.html');
+});
 		
 		//$.getJSON('http://madebypakistan.com/projects/server/getdata.php?usertoken='+readCookie('usertoken'), processJson);
 		
