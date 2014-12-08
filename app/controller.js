@@ -33,19 +33,31 @@ function Controller()
 			that.mainLoop();
 		};
 
+//module.controller("PostsCtrl", function($scope, $http) {
+//  $http.get('data/posts.json').
+//    success(function(data, status, headers, config) {
+//      $scope.posts = data;
+//    }).
+//    error(function(data, status, headers, config) {
+//      // log error
+//    });
+//});
+
+
+
 		// Load camera data. 
 		//$.getJSON('./mycameras.json', processJson);
 		//$.getJSON('./example.json', processJson);
-                
-                $.getJSON('http://madebypakistan.com/projects/server/getdata.php?usertoken='+localStorage.usertoken, processJson,function(data){
+                //$.getJSON('http://madebypakistan.com/projects/server/getdata.php?usertoken='+localStorage.usertoken, processJson,function(data){
+                $.getJSON('http://madebypakistan.com/projects/server/getdata.php?usertoken='+ localStorage.usercode, processJson,function(data){
     //console.log(data);
 })
 .fail(function( jqxhr, textStatus, error ) {
     //console.log( "Requests Failed: " + textStatus + ', ' + error);
-    $('#loadpageid').load('nointernet.html');
+   // $('#loadpageid').load('nointernet.html');
 });
 		
-		//$.getJSON('http://madebypakistan.com/projects/server/getdata.php?usertoken='+readCookie('usertoken'), processJson);
+		//$.getJSON('http://madebypakistan.com/projects/server/getdata.php?usertoken=340a5e86-57be-11e4-b499-001eec8fe88c', processJson);
 		
 		// Install callbacks. 
 		$('#options').change(function(){ that.changeOptions(); });
@@ -89,8 +101,10 @@ function Controller()
 			if(cam.queue.newest() + cam.throttle > now) {
 				continue;
 			}
-
-			cam.queue.request(cam.url.getImageUrl());
+                        var camurl  =   cam.url.getImageUrl();
+			//cam.queue.request(cam.url.getImageUrl());
+                        cam.queue.request(cam.url.getImageUrl());
+                        //console.log(camurl);
 		}
 
 		setTimeout(function() { that.mainLoop(); }, 800);

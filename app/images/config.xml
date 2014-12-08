@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config Version="15">
+	<Device>lxl05A7</Device>
+	<IP></IP>
+	<Mask></Mask>
+	<Gateway></Gateway>
+	<DNS1>192.168.1.1</DNS1>
+	<DNS2>0.0.0.0</DNS2>
+	<LogServer>log.bsm-groups.com</LogServer>
+	<MTU>1500</MTU>
+	<NTPserver></NTPserver>
+	<LastUsedIP>192.168.1.4</LastUsedIP>
+	<LastUsedMask>255.255.255.0</LastUsedMask>
+	<LastUsedGateway>192.168.1.1</LastUsedGateway>
+	<LastUsedDNS1>192.168.1.1</LastUsedDNS1>
+	<LastUsedDNS2>0.0.0.0</LastUsedDNS2>
+	<LastUsedNTP>195.141.190.190</LastUsedNTP>
+	<LastUsedInternetIP>0.0.0.0</LastUsedInternetIP>
+	<LastUsedIPfromDHCP>1</LastUsedIPfromDHCP>
+	<HTTPport>80</HTTPport>
+	<FTPport>21</FTPport>
+	<TelnetPort>23</TelnetPort>
+	<LoxWATCHPort>7777</LoxWATCHPort>
+	<Hostname></Hostname>
+	<DynHostname></DynHostname>
+	<DynDomain>Home</DynDomain>
+	<LanguageCode>ENG</LanguageCode>
+	<Town>Europe/Vienna</Town>
+	<FTPTelnetLoxPLANLocalOnly>false</FTPTelnetLoxPLANLocalOnly>
+	<GatewayIPLoxoneDNS></GatewayIPLoxoneDNS>
+	<LastLogin>A2E949BAC9B19424A92BE55F029F95B3</LastLogin>
+</Config>

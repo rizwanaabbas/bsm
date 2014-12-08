@@ -152,25 +152,25 @@ function CameraUrl(json)
 		else {
 			url = "http://" + this.currentHost + this.imagePath;
 		}
+               
+                    timestamp = new Date().getTime().toString();
 
-		// Build query string
-		timestamp = new Date().getTime().toString();
+                    // FIXME: Ensure proper query string is built.
+                    if(url.search("/\\?/") === -1) {
+                            url += "?t=" + timestamp; 
+                    }
+                    else {
+                            url += "&t=" + timestamp;
+                    }
 
-		// FIXME: Ensure proper query string is built.
-		if(url.search("/\\?/") == -1) {
-			url += "?t=" + timestamp; 
-		}
-		else {
-			url += "&t=" + timestamp;
-		}
-
-		// FIXME: proper quality, size parameter handling.
-		// This is just to support Linksys cameras. Won't work elsewhere.
-		if(this.params) {
-			url += "&size=2&quality=3";
-		}
-	
-		return url;
+                    // FIXME: proper quality, size parameter handling.
+                    // This is just to support Linksys cameras. Won't work elsewhere.
+                    if(this.params) {
+                            url += "&size=2&quality=3";
+                    }
+                    //console.log(url);
+                    return url;
+                  
 	}
 
 	/**

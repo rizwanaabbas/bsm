@@ -1,0 +1,671 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LoxLIVE Version="17" Date="2014-11-05 17:50:47" TempUnit="0" Currency="" globalURI="dns.bsm-groups.com/504F941005A7" localURI="" SN="504F941005A7" SortByFav="admin:0," Cat="Kategorie" Room="Raum" name="Democase RGBW V1.0" friendlyname="BSM TECHNOLOGIES">
+	<images>
+		<image n="1" link="00000000-0000-0001-2200000000000000.png"/>
+		<image n="2" link="00000000-0000-0002-2200000000000000.png"/>
+		<image n="3" link="00000000-0000-0003-2200000000000000.png"/>
+		<image n="4" link="00000000-0000-0004-2200000000000000.png"/>
+		<image n="5" link="00000000-0000-0005-2200000000000000.png"/>
+		<image n="6" link="00000000-0000-0006-2200000000000000.png"/>
+		<image n="7" link="00000000-0000-0007-2200000000000000.png"/>
+		<image n="8" link="00000000-0000-0008-2200000000000000.png"/>
+		<image n="9" link="00000000-0000-0009-2200000000000000.png"/>
+		<image n="10" link="00000000-0000-000a-2200000000000000.png"/>
+		<image n="11" link="00000000-0000-000b-2200000000000000.png"/>
+		<image n="12" link="00000000-0000-000c-2200000000000000.png"/>
+		<image n="13" link="00000000-0000-000d-2200000000000000.png"/>
+		<image n="14" link="00000000-0000-000e-2200000000000000.png"/>
+		<image n="15" link="00000000-0000-000f-2200000000000000.png"/>
+		<image n="16" link="00000000-0000-0010-2200000000000000.png"/>
+		<image n="17" link="00000000-0000-0011-2200000000000000.png"/>
+		<image n="18" link="00000000-0000-0012-2200000000000000.png"/>
+		<image n="19" link="00000000-0000-0013-2200000000000000.png"/>
+		<image n="20" link="00000000-0000-0014-2200000000000000.png"/>
+		<image n="21" link="00000000-0000-0015-2200000000000000.png"/>
+		<image n="22" link="00000000-0000-0016-2200000000000000.png"/>
+		<image n="23" link="00000000-0000-0017-2200000000000000.png"/>
+		<image n="24" link="00000000-0000-0018-2200000000000000.png"/>
+		<image n="25" link="00000000-0000-0019-2200000000000000.png"/>
+		<image n="26" link="00000000-0000-0001-2000000000000000.png"/>
+		<image n="27" link="00000000-0000-0002-2000000000000000.png"/>
+		<image n="28" link="00000000-0000-0003-2000000000000000.png"/>
+		<image n="29" link="00000000-0000-0004-2000000000000000.png"/>
+		<image n="30" link="00000000-0000-0005-2000000000000000.png"/>
+		<image n="31" link="00000000-0000-0006-2000000000000000.png"/>
+		<image n="32" link="00000000-0000-0007-2000000000000000.png"/>
+		<image n="33" link="00000000-0000-0008-2000000000000000.png"/>
+		<image n="34" link="00000000-0000-0009-2000000000000000.png"/>
+		<image n="35" link="00000000-0000-000a-2000000000000000.png"/>
+		<image n="36" link="00000000-0000-000b-2000000000000000.png"/>
+		<image n="37" link="00000000-0000-000c-2000000000000000.png"/>
+		<image n="38" link="00000000-0000-000d-2000000000000000.png"/>
+		<image n="39" link="00000000-0000-000e-2000000000000000.png"/>
+		<image n="40" link="00000000-0000-000f-2000000000000000.png"/>
+		<image n="41" link="00000000-0000-0010-2000000000000000.png"/>
+		<image n="42" link="00000000-0000-0011-2000000000000000.png"/>
+		<image n="43" link="00000000-0000-0012-2000000000000000.png"/>
+		<image n="44" link="00000000-0000-0013-2000000000000000.png"/>
+		<image n="45" link="00000000-0000-0014-2000000000000000.png"/>
+		<image n="46" link="00000000-0000-0015-2000000000000000.png"/>
+		<image n="47" link="00000000-0000-0016-2000000000000000.png"/>
+		<image n="48" link="00000000-0000-0017-2000000000000000.png"/>
+		<image n="49" link="00000000-0000-0018-2000000000000000.png"/>
+		<image n="50" link="00000000-0000-0019-2000000000000000.png"/>
+		<image n="51" link="00000000-0000-001a-2000000000000000.png"/>
+		<image n="52" link="00000000-0000-001b-2000000000000000.png"/>
+		<image n="53" link="00000000-0000-001c-2000000000000000.png"/>
+		<image n="54" link="00000000-0000-001d-2000000000000000.png"/>
+		<image n="55" link="00000000-0000-001e-2000000000000000.png"/>
+		<image n="56" link="00000000-0000-001f-2000000000000000.png"/>
+		<image n="57" link="00000000-0000-0020-2000000000000000.png"/>
+		<image n="58" link="00000000-0000-0021-2000000000000000.png"/>
+		<image n="59" link="00000000-0000-0022-2000000000000000.png"/>
+		<image n="60" link="00000000-0000-0023-2000000000000000.png"/>
+		<image n="61" link="00000000-0000-0024-2000000000000000.png"/>
+		<image n="62" link="00000000-0000-0025-2000000000000000.png"/>
+		<image n="63" link="00000000-0000-0026-2000000000000000.png"/>
+		<image n="64" link="00000000-0000-0027-2000000000000000.png"/>
+		<image n="65" link="00000000-0000-0028-2000000000000000.png"/>
+		<image n="66" link="00000000-0000-0001-2100000000000000.png"/>
+		<image n="67" link="00000000-0000-0002-2100000000000000.png"/>
+		<image n="68" link="00000000-0000-0003-2100000000000000.png"/>
+		<image n="69" link="00000000-0000-0004-2100000000000000.png"/>
+		<image n="70" link="00000000-0000-0005-2100000000000000.png"/>
+		<image n="71" link="00000000-0000-0006-2100000000000000.png"/>
+		<image n="72" link="00000000-0000-0007-2100000000000000.png"/>
+		<image n="73" link="00000000-0000-0008-2100000000000000.png"/>
+		<image n="74" link="00000000-0000-0009-2100000000000000.png"/>
+		<image n="75" link="00000000-0000-000a-2100000000000000.png"/>
+		<image n="76" link="00000000-0000-000b-2100000000000000.png"/>
+		<image n="77" link="00000000-0000-000c-2100000000000000.png"/>
+		<image n="78" link="00000000-0000-000d-2100000000000000.png"/>
+		<image n="79" link="00000000-0000-000e-2100000000000000.png"/>
+		<image n="80" link="00000000-0000-000f-2100000000000000.png"/>
+		<image n="81" link="00000000-0000-0010-2100000000000000.png"/>
+		<image n="82" link="00000000-0000-0011-2100000000000000.png"/>
+		<image n="83" link="00000000-0000-0012-2100000000000000.png"/>
+		<image n="84" link="00000000-0000-0013-2100000000000000.png"/>
+		<image n="85" link="00000000-0000-0014-2100000000000000.png"/>
+		<image n="86" link="00000000-0000-0015-2100000000000000.png"/>
+		<image n="87" link="00000000-0000-0016-2100000000000000.png"/>
+		<image n="88" link="00000000-0000-0017-2100000000000000.png"/>
+		<image n="89" link="00000000-0000-0018-2100000000000000.png"/>
+		<image n="90" link="00000000-0000-0019-2100000000000000.png"/>
+		<image n="91" link="00000000-0000-001a-2100000000000000.png"/>
+		<image n="92" link="00000000-0000-001b-2100000000000000.png"/>
+		<image n="93" link="00000000-0000-001c-2100000000000000.png"/>
+		<image n="94" link="00000000-0000-001d-2100000000000000.png"/>
+		<image n="95" link="00000000-0000-001e-2100000000000000.png"/>
+		<image n="96" link="00000000-0000-001f-2100000000000000.png"/>
+		<image n="97" link="00000000-0000-0020-2100000000000000.png"/>
+		<image n="98" link="00000000-0000-0021-2100000000000000.png"/>
+		<image n="99" link="00000000-0000-0022-2100000000000000.png"/>
+		<image n="100" link="00000000-0000-0023-2100000000000000.png"/>
+		<image n="101" link="00000000-0000-0024-2100000000000000.png"/>
+		<image n="102" link="00000000-0000-0025-2100000000000000.png"/>
+		<image n="103" link="00000000-0000-0026-2100000000000000.png"/>
+		<image n="104" link="00000000-0000-0027-2100000000000000.png"/>
+		<image n="105" link="00000000-0000-0028-2100000000000000.png"/>
+		<image n="106" link="00000000-0000-0029-2100000000000000.png"/>
+		<image n="107" link="00000000-0000-002a-2100000000000000.png"/>
+		<image n="108" link="00000000-0000-002b-2100000000000000.png"/>
+		<image n="109" link="00000000-0000-002c-2100000000000000.png"/>
+		<image n="110" link="00000000-0000-002d-2100000000000000.png"/>
+		<image n="111" link="00000000-0000-002e-2100000000000000.png"/>
+		<image n="112" link="00000000-0000-002f-2100000000000000.png"/>
+		<image n="113" link="00000000-0000-0030-2100000000000000.png"/>
+		<image n="114" link="00000000-0000-0031-2100000000000000.png"/>
+		<image n="115" link="00000000-0000-0032-2100000000000000.png"/>
+		<image n="116" link="00000000-0000-0033-2100000000000000.png"/>
+		<image n="117" link="00000000-0000-0034-2100000000000000.png"/>
+	</images>
+	<Cats>
+		<Cat n="1" name="Alarms" image="40"/>
+		<Cat n="2" name="Central" image="43"/>
+		<Cat n="3" name="Heating" image="29"/>
+		<Cat n="4" name="Lighting" image="27" rating="5"/>
+		<Cat n="5" name="Shading" image="28" rating="5"/>
+		<Cat n="6" name="Wellness" image="42"/>
+	</Cats>
+	<Rooms>
+		<Room n="1" name="Central" image="66"/>
+		<Room n="2" name="Dining room" image="89" rating="5"/>
+		<Room n="3" name="Global" image="114"/>
+		<Room n="4" name="Living room" image="69" rating="5"/>
+		<Room n="5" name="Sauna" image="80"/>
+	</Rooms>
+	<Functions>
+		<Function $u="admin," $w="admin," name="Weather server UBIMET" UUIDaction="09a875ee-003b-067f-ffffeee0002c01ab" Type="Weather" Location="lexington" Days="3" Parts="4">
+			<SymbolText Nr="1" Text="wolkenlos"/>
+			<SymbolText Nr="2" Text="heiter"/>
+			<SymbolText Nr="3" Text="wolkig"/>
+			<SymbolText Nr="4" Text="stark bewölkt"/>
+			<SymbolText Nr="5" Text="bedeckt"/>
+			<SymbolText Nr="6" Text="Nebel"/>
+			<SymbolText Nr="7" Text="Hochnebel"/>
+			<SymbolText Nr="8" Text="nicht verwendet"/>
+			<SymbolText Nr="9" Text="nicht verwendet"/>
+			<SymbolText Nr="10" Text="leichter Regen"/>
+			<SymbolText Nr="11" Text="Regen"/>
+			<SymbolText Nr="12" Text="starker Regen"/>
+			<SymbolText Nr="13" Text="Nieseln"/>
+			<SymbolText Nr="14" Text="leichter gefrierender Regen"/>
+			<SymbolText Nr="15" Text="starker gefrierender Regen"/>
+			<SymbolText Nr="16" Text="leichter Regenschauer"/>
+			<SymbolText Nr="17" Text="kräftiger Regenschauer"/>
+			<SymbolText Nr="18" Text="Gewitter"/>
+			<SymbolText Nr="19" Text="kräftiges Gewitter"/>
+			<SymbolText Nr="20" Text="leichter Schneefall"/>
+			<SymbolText Nr="21" Text="Schneefall"/>
+			<SymbolText Nr="22" Text="starker Schneefall"/>
+			<SymbolText Nr="23" Text="leichter Schneeschauer"/>
+			<SymbolText Nr="24" Text="starker Schneeschauer"/>
+			<SymbolText Nr="25" Text="leichter Schneeregen"/>
+			<SymbolText Nr="26" Text="Schneeregen"/>
+			<SymbolText Nr="27" Text="starker Schneeregen"/>
+			<SymbolText Nr="28" Text="leichter Schneeregenschauer"/>
+			<SymbolText Nr="29" Text="kräftiger Schneeregenschauer"/>
+			<StateSunrise UUID="09a8f400-003b-0680-ffffeee0002c01ab"/>
+			<StateSunset UUID="09a8f500-003b-0680-ffffeee0002c01ab"/>
+			<StateForecastDate UUID="09a8f600-003b-0680-ffffeee0002c01ab"/>
+			<Actual Name="Aktuell">
+				<StateDate UUID="09a8f000-003b-0680-ffffeee0002c01ab"/>
+				<StateField UUID="09a80000-003b-0680-ffffeee0002c01ab" ID="0" Name="Wettertype" Type="Symbol" Format=""/>
+				<StateField UUID="09a80001-003b-0680-ffffeee0002c01ab" ID="1" Name="Temperatur" Type="Analog" Format="%.1f°"/>
+				<StateField UUID="09a80002-003b-0680-ffffeee0002c01ab" ID="2" Name="Gefühlte Temperatur" Type="Analog" Format="%.1f°"/>
+				<StateField UUID="09a80003-003b-0680-ffffeee0002c01ab" ID="3" Name="Rel.Luftfeuchte" Type="Analog" Format="%.0f%%"/>
+				<StateField UUID="09a80004-003b-0680-ffffeee0002c01ab" ID="4" Name="Windgeschwindigkeit" Type="Analog" Format="%.0fkm/h"/>
+				<StateField UUID="09a80005-003b-0680-ffffeee0002c01ab" ID="5" Name="Windrichtung" Type="Direction" Format=""/>
+				<StateField UUID="09a80006-003b-0680-ffffeee0002c01ab" ID="6" Name="Niederschlag" Type="Analog" Format="%.1fl/m²/h"/>
+				<StateField UUID="09a80008-003b-0680-ffffeee0002c01ab" ID="8" Name="Luftdruck" Type="Analog" Format="%.0fhPa"/>
+			</Actual>
+			<Day Name="Heute">
+				<StateDate UUID="09a8f100-003b-0680-ffffeee0002c01ab"/>
+				<StateField UUID="09a80110-003b-0680-ffffeee0002c01ab" ID="0" Name="Wettertype" Type="Symbol" Format=""/>
+				<StateField UUID="09a80111-003b-0680-ffffeee0002c01ab" UUIDmax="09a80211-003b-0680-ffffeee0002c01ab" ID="1" Name="Temperatur" Type="Analog" Format="%.1f°"/>
+				<StateField UUID="09a80112-003b-0680-ffffeee0002c01ab" ID="2" Name="Gefühlte Temperatur" Type="Analog" Format="%.1f°"/>
+				<StateField UUID="09a80113-003b-0680-ffffeee0002c01ab" ID="3" Name="Rel.Luftfeuchte" Type="Analog" Format="%.0f%%"/>
+				<StateField UUID="09a80114-003b-0680-ffffeee0002c01ab" ID="4" Name="Windgeschwindigkeit" Type="Analog" Format="%.0fkm/h"/>
+				<StateField UUID="09a80115-003b-0680-ffffeee0002c01ab" ID="5" Name="Windrichtung" Type="Direction" Format=""/>
+				<StateField UUID="09a80116-003b-0680-ffffeee0002c01ab" ID="6" Name="Niederschlag" Type="Analog" Format="%.1fl/m²/h"/>
+				<StateField UUID="09a80118-003b-0680-ffffeee0002c01ab" ID="8" Name="Luftdruck" Type="Analog" Format="%.0fhPa"/>
+				<DayPart Name="Vormittag">
+					<StateField UUID="09a80120-003b-0680-ffffeee0002c01ab" ID="0" Name="Wettertype" Type="Symbol" Format=""/>
+					<StateField UUID="09a80121-003b-0680-ffffeee0002c01ab" UUIDmax="09a80221-003b-0680-ffffeee0002c01ab" ID="1" Name="Temperatur" Type="Analog" Format="%.1f°"/>
+					<StateField UUID="09a80122-003b-0680-ffffeee0002c01ab" ID="2" Name="Gefühlte Temperatur" Type="Analog" Format="%.1f°"/>
+					<StateField UUID="09a80123-003b-0680-ffffeee0002c01ab" ID="3" Name="Rel.Luftfeuchte" Type="Analog" Format="%.0f%%"/>
+					<StateField UUID="09a80124-003b-0680-ffffeee0002c01ab" ID="4" Name="Windgeschwindigkeit" Type="Analog" Format="%.0fkm/h"/>
+					<StateField UUID="09a80125-003b-0680-ffffeee0002c01ab" ID="5" Name="Windrichtung" Type="Direction" Format=""/>
+					<StateField UUID="09a80126-003b-0680-ffffeee0002c01ab" ID="6" Name="Niederschlag" Type="Analog" Format="%.1fl/m²/h"/>
+					<StateField UUID="09a80128-003b-0680-ffffeee0002c01ab" ID="8" Name="Luftdruck" Type="Analog" Format="%.0fhPa"/>
+				</DayPart>
+				<DayPart Name="Nachmittag">
+					<StateField UUID="09a80130-003b-0680-ffffeee0002c01ab" ID="0" Name="Wettertype" Type="Symbol" Format=""/>
+					<StateField UUID="09a80131-003b-0680-ffffeee0002c01ab" UUIDmax="09a80231-003b-0680-ffffeee0002c01ab" ID="1" Name="Temperatur" Type="Analog" Format="%.1f°"/>
+					<StateField UUID="09a80132-003b-0680-ffffeee0002c01ab" ID="2" Name="Gefühlte Temperatur" Type="Analog" Format="%.1f°"/>
+					<StateField UUID="09a80133-003b-0680-ffffeee0002c01ab" ID="3" Name="Rel.Luftfeuchte" Type="Analog" Format="%.0f%%"/>
+					<StateField UUID="09a80134-003b-0680-ffffeee0002c01ab" ID="4" Name="Windgeschwindigkeit" Type="Analog" Format="%.0fkm/h"/>
+					<StateField UUID="09a80135-003b-0680-ffffeee0002c01ab" ID="5" Name="Windrichtung" Type="Direction" Format=""/>
+					<StateField UUID="09a80136-003b-0680-ffffeee0002c01ab" ID="6" Name="Niederschlag" Type="Analog" Format="%.1fl/m²/h"/>
+					<StateField UUID="09a80138-003b-0680-ffffeee0002c01ab" ID="8" Name="Luftdruck" Type="Analog" Format="%.0fhPa"/>
+				</DayPart>
+				<DayPart Name="Abend">
+					<StateField UUID="09a80140-003b-0680-ffffeee0002c01ab" ID="0" Name="Wettertype" Type="Symbol" Format=""/>
+					<StateField UUID="09a80141-003b-0680-ffffeee0002c01ab" UUIDmax="09a80241-003b-0680-ffffeee0002c01ab" ID="1" Name="Temperatur" Type="Analog" Format="%.1f°"/>
+					<StateField UUID="09a80142-003b-0680-ffffeee0002c01ab" ID="2" Name="Gefühlte Temperatur" Type="Analog" Format="%.1f°"/>
+					<StateField UUID="09a80143-003b-0680-ffffeee0002c01ab" ID="3" Name="Rel.Luftfeuchte" Type="Analog" Format="%.0f%%"/>
+					<StateField UUID="09a80144-003b-0680-ffffeee0002c01ab" ID="4" Name="Windgeschwindigkeit" Type="Analog" Format="%.0fkm/h"/>
+					<StateField UUID="09a80145-003b-0680-ffffeee0002c01ab" ID="5" Name="Windrichtung" Type="Direction" Format=""/>
+					<StateField UUID="09a80146-003b-0680-ffffeee0002c01ab" ID="6" Name="Niederschlag" Type="Analog" Format="%.1fl/m²/h"/>
+					<StateField UUID="09a80148-003b-0680-ffffeee0002c01ab" ID="8" Name="Luftdruck" Type="Analog" Format="%.0fhPa"/>
+				</DayPart>
+				<DayPart Name="Nacht">
+					<StateField UUID="09a80150-003b-0680-ffffeee0002c01ab" ID="0" Name="Wettertype" Type="Symbol" Format=""/>
+					<StateField UUID="09a80151-003b-0680-ffffeee0002c01ab" UUIDmax="09a80251-003b-0680-ffffeee0002c01ab" ID="1" Name="Temperatur" Type="Analog" Format="%.1f°"/>
+					<StateField UUID="09a80152-003b-0680-ffffeee0002c01ab" ID="2" Name="Gefühlte Temperatur" Type="Analog" Format="%.1f°"/>
+					<StateField UUID="09a80153-003b-0680-ffffeee0002c01ab" ID="3" Name="Rel.Luftfeuchte" Type="Analog" Format="%.0f%%"/>
+					<StateField UUID="09a80154-003b-0680-ffffeee0002c01ab" ID="4" Name="Windgeschwindigkeit" Type="Analog" Format="%.0fkm/h"/>
+					<StateField UUID="09a80155-003b-0680-ffffeee0002c01ab" ID="5" Name="Windrichtung" Type="Direction" Format=""/>
+					<StateField UUID="09a80156-003b-0680-ffffeee0002c01ab" ID="6" Name="Niederschlag" Type="Analog" Format="%.1fl/m²/h"/>
+					<StateField UUID="09a80158-003b-0680-ffffeee0002c01ab" ID="8" Name="Luftdruck" Type="Analog" Format="%.0fhPa"/>
+				</DayPart>
+			</Day>
+			<Day Name="Morgen">
+				<StateDate UUID="09a8f101-003b-0680-ffffeee0002c01ab"/>
+				<StateField UUID="09a80160-003b-0680-ffffeee0002c01ab" ID="0" Name="Wettertype" Type="Symbol" Format=""/>
+				<StateField UUID="09a80161-003b-0680-ffffeee0002c01ab" UUIDmax="09a80261-003b-0680-ffffeee0002c01ab" ID="1" Name="Temperatur" Type="Analog" Format="%.1f°"/>
+				<StateField UUID="09a80162-003b-0680-ffffeee0002c01ab" ID="2" Name="Gefühlte Temperatur" Type="Analog" Format="%.1f°"/>
+				<StateField UUID="09a80163-003b-0680-ffffeee0002c01ab" ID="3" Name="Rel.Luftfeuchte" Type="Analog" Format="%.0f%%"/>
+				<StateField UUID="09a80164-003b-0680-ffffeee0002c01ab" ID="4" Name="Windgeschwindigkeit" Type="Analog" Format="%.0fkm/h"/>
+				<StateField UUID="09a80165-003b-0680-ffffeee0002c01ab" ID="5" Name="Windrichtung" Type="Direction" Format=""/>
+				<StateField UUID="09a80166-003b-0680-ffffeee0002c01ab" ID="6" Name="Niederschlag" Type="Analog" Format="%.1fl/m²/h"/>
+				<StateField UUID="09a80168-003b-0680-ffffeee0002c01ab" ID="8" Name="Luftdruck" Type="Analog" Format="%.0fhPa"/>
+				<DayPart Name="Vormittag">
+					<StateField UUID="09a80170-003b-0680-ffffeee0002c01ab" ID="0" Name="Wettertype" Type="Symbol" Format=""/>
+					<StateField UUID="09a80171-003b-0680-ffffeee0002c01ab" UUIDmax="09a80271-003b-0680-ffffeee0002c01ab" ID="1" Name="Temperatur" Type="Analog" Format="%.1f°"/>
+					<StateField UUID="09a80172-003b-0680-ffffeee0002c01ab" ID="2" Name="Gefühlte Temperatur" Type="Analog" Format="%.1f°"/>
+					<StateField UUID="09a80173-003b-0680-ffffeee0002c01ab" ID="3" Name="Rel.Luftfeuchte" Type="Analog" Format="%.0f%%"/>
+					<StateField UUID="09a80174-003b-0680-ffffeee0002c01ab" ID="4" Name="Windgeschwindigkeit" Type="Analog" Format="%.0fkm/h"/>
+					<StateField UUID="09a80175-003b-0680-ffffeee0002c01ab" ID="5" Name="Windrichtung" Type="Direction" Format=""/>
+					<StateField UUID="09a80176-003b-0680-ffffeee0002c01ab" ID="6" Name="Niederschlag" Type="Analog" Format="%.1fl/m²/h"/>
+					<StateField UUID="09a80178-003b-0680-ffffeee0002c01ab" ID="8" Name="Luftdruck" Type="Analog" Format="%.0fhPa"/>
+				</DayPart>
+				<DayPart Name="Nachmittag">
+					<StateField UUID="09a80180-003b-0680-ffffeee0002c01ab" ID="0" Name="Wettertype" Type="Symbol" Format=""/>
+					<StateField UUID="09a80181-003b-0680-ffffeee0002c01ab" UUIDmax="09a80281-003b-0680-ffffeee0002c01ab" ID="1" Name="Temperatur" Type="Analog" Format="%.1f°"/>
+					<StateField UUID="09a80182-003b-0680-ffffeee0002c01ab" ID="2" Name="Gefühlte Temperatur" Type="Analog" Format="%.1f°"/>
+					<StateField UUID="09a80183-003b-0680-ffffeee0002c01ab" ID="3" Name="Rel.Luftfeuchte" Type="Analog" Format="%.0f%%"/>
+					<StateField UUID="09a80184-003b-0680-ffffeee0002c01ab" ID="4" Name="Windgeschwindigkeit" Type="Analog" Format="%.0fkm/h"/>
+					<StateField UUID="09a80185-003b-0680-ffffeee0002c01ab" ID="5" Name="Windrichtung" Type="Direction" Format=""/>
+					<StateField UUID="09a80186-003b-0680-ffffeee0002c01ab" ID="6" Name="Niederschlag" Type="Analog" Format="%.1fl/m²/h"/>
+					<StateField UUID="09a80188-003b-0680-ffffeee0002c01ab" ID="8" Name="Luftdruck" Type="Analog" Format="%.0fhPa"/>
+				</DayPart>
+				<DayPart Name="Abend">
+					<StateField UUID="09a80190-003b-0680-ffffeee0002c01ab" ID="0" Name="Wettertype" Type="Symbol" Format=""/>
+					<StateField UUID="09a80191-003b-0680-ffffeee0002c01ab" UUIDmax="09a80291-003b-0680-ffffeee0002c01ab" ID="1" Name="Temperatur" Type="Analog" Format="%.1f°"/>
+					<StateField UUID="09a80192-003b-0680-ffffeee0002c01ab" ID="2" Name="Gefühlte Temperatur" Type="Analog" Format="%.1f°"/>
+					<StateField UUID="09a80193-003b-0680-ffffeee0002c01ab" ID="3" Name="Rel.Luftfeuchte" Type="Analog" Format="%.0f%%"/>
+					<StateField UUID="09a80194-003b-0680-ffffeee0002c01ab" ID="4" Name="Windgeschwindigkeit" Type="Analog" Format="%.0fkm/h"/>
+					<StateField UUID="09a80195-003b-0680-ffffeee0002c01ab" ID="5" Name="Windrichtung" Type="Direction" Format=""/>
+					<StateField UUID="09a80196-003b-0680-ffffeee0002c01ab" ID="6" Name="Niederschlag" Type="Analog" Format="%.1fl/m²/h"/>
+					<StateField UUID="09a80198-003b-0680-ffffeee0002c01ab" ID="8" Name="Luftdruck" Type="Analog" Format="%.0fhPa"/>
+				</DayPart>
+				<DayPart Name="Nacht">
+					<StateField UUID="09a801a0-003b-0680-ffffeee0002c01ab" ID="0" Name="Wettertype" Type="Symbol" Format=""/>
+					<StateField UUID="09a801a1-003b-0680-ffffeee0002c01ab" UUIDmax="09a802a1-003b-0680-ffffeee0002c01ab" ID="1" Name="Temperatur" Type="Analog" Format="%.1f°"/>
+					<StateField UUID="09a801a2-003b-0680-ffffeee0002c01ab" ID="2" Name="Gefühlte Temperatur" Type="Analog" Format="%.1f°"/>
+					<StateField UUID="09a801a3-003b-0680-ffffeee0002c01ab" ID="3" Name="Rel.Luftfeuchte" Type="Analog" Format="%.0f%%"/>
+					<StateField UUID="09a801a4-003b-0680-ffffeee0002c01ab" ID="4" Name="Windgeschwindigkeit" Type="Analog" Format="%.0fkm/h"/>
+					<StateField UUID="09a801a5-003b-0680-ffffeee0002c01ab" ID="5" Name="Windrichtung" Type="Direction" Format=""/>
+					<StateField UUID="09a801a6-003b-0680-ffffeee0002c01ab" ID="6" Name="Niederschlag" Type="Analog" Format="%.1fl/m²/h"/>
+					<StateField UUID="09a801a8-003b-0680-ffffeee0002c01ab" ID="8" Name="Luftdruck" Type="Analog" Format="%.0fhPa"/>
+				</DayPart>
+			</Day>
+			<Day Name="Übermorgen">
+				<StateDate UUID="09a8f102-003b-0680-ffffeee0002c01ab"/>
+				<StateField UUID="09a801b0-003b-0680-ffffeee0002c01ab" ID="0" Name="Wettertype" Type="Symbol" Format=""/>
+				<StateField UUID="09a801b1-003b-0680-ffffeee0002c01ab" UUIDmax="09a802b1-003b-0680-ffffeee0002c01ab" ID="1" Name="Temperatur" Type="Analog" Format="%.1f°"/>
+				<StateField UUID="09a801b2-003b-0680-ffffeee0002c01ab" ID="2" Name="Gefühlte Temperatur" Type="Analog" Format="%.1f°"/>
+				<StateField UUID="09a801b3-003b-0680-ffffeee0002c01ab" ID="3" Name="Rel.Luftfeuchte" Type="Analog" Format="%.0f%%"/>
+				<StateField UUID="09a801b4-003b-0680-ffffeee0002c01ab" ID="4" Name="Windgeschwindigkeit" Type="Analog" Format="%.0fkm/h"/>
+				<StateField UUID="09a801b5-003b-0680-ffffeee0002c01ab" ID="5" Name="Windrichtung" Type="Direction" Format=""/>
+				<StateField UUID="09a801b6-003b-0680-ffffeee0002c01ab" ID="6" Name="Niederschlag" Type="Analog" Format="%.1fl/m²/h"/>
+				<StateField UUID="09a801b8-003b-0680-ffffeee0002c01ab" ID="8" Name="Luftdruck" Type="Analog" Format="%.0fhPa"/>
+				<DayPart Name="Vormittag">
+					<StateField UUID="09a801c0-003b-0680-ffffeee0002c01ab" ID="0" Name="Wettertype" Type="Symbol" Format=""/>
+					<StateField UUID="09a801c1-003b-0680-ffffeee0002c01ab" UUIDmax="09a802c1-003b-0680-ffffeee0002c01ab" ID="1" Name="Temperatur" Type="Analog" Format="%.1f°"/>
+					<StateField UUID="09a801c2-003b-0680-ffffeee0002c01ab" ID="2" Name="Gefühlte Temperatur" Type="Analog" Format="%.1f°"/>
+					<StateField UUID="09a801c3-003b-0680-ffffeee0002c01ab" ID="3" Name="Rel.Luftfeuchte" Type="Analog" Format="%.0f%%"/>
+					<StateField UUID="09a801c4-003b-0680-ffffeee0002c01ab" ID="4" Name="Windgeschwindigkeit" Type="Analog" Format="%.0fkm/h"/>
+					<StateField UUID="09a801c5-003b-0680-ffffeee0002c01ab" ID="5" Name="Windrichtung" Type="Direction" Format=""/>
+					<StateField UUID="09a801c6-003b-0680-ffffeee0002c01ab" ID="6" Name="Niederschlag" Type="Analog" Format="%.1fl/m²/h"/>
+					<StateField UUID="09a801c8-003b-0680-ffffeee0002c01ab" ID="8" Name="Luftdruck" Type="Analog" Format="%.0fhPa"/>
+				</DayPart>
+				<DayPart Name="Nachmittag">
+					<StateField UUID="09a801d0-003b-0680-ffffeee0002c01ab" ID="0" Name="Wettertype" Type="Symbol" Format=""/>
+					<StateField UUID="09a801d1-003b-0680-ffffeee0002c01ab" UUIDmax="09a802d1-003b-0680-ffffeee0002c01ab" ID="1" Name="Temperatur" Type="Analog" Format="%.1f°"/>
+					<StateField UUID="09a801d2-003b-0680-ffffeee0002c01ab" ID="2" Name="Gefühlte Temperatur" Type="Analog" Format="%.1f°"/>
+					<StateField UUID="09a801d3-003b-0680-ffffeee0002c01ab" ID="3" Name="Rel.Luftfeuchte" Type="Analog" Format="%.0f%%"/>
+					<StateField UUID="09a801d4-003b-0680-ffffeee0002c01ab" ID="4" Name="Windgeschwindigkeit" Type="Analog" Format="%.0fkm/h"/>
+					<StateField UUID="09a801d5-003b-0680-ffffeee0002c01ab" ID="5" Name="Windrichtung" Type="Direction" Format=""/>
+					<StateField UUID="09a801d6-003b-0680-ffffeee0002c01ab" ID="6" Name="Niederschlag" Type="Analog" Format="%.1fl/m²/h"/>
+					<StateField UUID="09a801d8-003b-0680-ffffeee0002c01ab" ID="8" Name="Luftdruck" Type="Analog" Format="%.0fhPa"/>
+				</DayPart>
+				<DayPart Name="Abend">
+					<StateField UUID="09a801e0-003b-0680-ffffeee0002c01ab" ID="0" Name="Wettertype" Type="Symbol" Format=""/>
+					<StateField UUID="09a801e1-003b-0680-ffffeee0002c01ab" UUIDmax="09a802e1-003b-0680-ffffeee0002c01ab" ID="1" Name="Temperatur" Type="Analog" Format="%.1f°"/>
+					<StateField UUID="09a801e2-003b-0680-ffffeee0002c01ab" ID="2" Name="Gefühlte Temperatur" Type="Analog" Format="%.1f°"/>
+					<StateField UUID="09a801e3-003b-0680-ffffeee0002c01ab" ID="3" Name="Rel.Luftfeuchte" Type="Analog" Format="%.0f%%"/>
+					<StateField UUID="09a801e4-003b-0680-ffffeee0002c01ab" ID="4" Name="Windgeschwindigkeit" Type="Analog" Format="%.0fkm/h"/>
+					<StateField UUID="09a801e5-003b-0680-ffffeee0002c01ab" ID="5" Name="Windrichtung" Type="Direction" Format=""/>
+					<StateField UUID="09a801e6-003b-0680-ffffeee0002c01ab" ID="6" Name="Niederschlag" Type="Analog" Format="%.1fl/m²/h"/>
+					<StateField UUID="09a801e8-003b-0680-ffffeee0002c01ab" ID="8" Name="Luftdruck" Type="Analog" Format="%.0fhPa"/>
+				</DayPart>
+			</Day>
+		</Function>
+		<Function $u="admin," $w="admin," name="Presence" room="1" cat="2" UUIDaction="09a875ee-003c-06cf-ffffeee0002c01ab" Type="Tracker" Maxentries="10"/>
+		<Function $u="admin," $w="admin," name="Blind Central" room="1" cat="5" rating="5" UUIDaction="09a875ee-003b-0677-ffffeee0002c01ab">
+			<detail Type="DigUpDown"/>
+		</Function>
+		<Function $u="admin," $w="admin," name="Blinds dining room" room="2" cat="5" UUIDaction="09a875ee-003c-079a-ffffeee0002c01ab" Type="AutoJalousie" EnableAutoShade="false" Animation="Shutter">
+			<StateUp UUID="09a875ee-003c-07bc-ffffeee0002c01ab"/>
+			<StateDown UUID="09a875ee-003c-07bd-ffffeee0002c01ab"/>
+			<StatePos UUID="09a875ee-003c-07be-ffffeee0002c01ab"/>
+			<StateShade UUID="09a875ee-003c-07bf-ffffeee0002c01ab"/>
+			<StateAutoShade UUID="09a875ee-003c-07c0-ffffeee0002c01ab"/>
+			<StateSafety UUID="09a875ee-003c-07c1-ffffeee0002c01ab"/>
+			<StateAutoAllowed UUID="09a875ee-003c-07a1-ffffeee0002c01ab"/>
+		</Function>
+		<Function $u="admin," $w="admin," name="Burglar alarm" room="3" cat="1" UUIDaction="09a875ee-003c-06fd-ffffeee0002c01ab" Type="Alarm">
+			<StateActive UUID="09a875ee-003c-0717-ffffeee0002c01ab"/>
+			<StateSilentAlarm UUID="09a875ee-003c-0718-ffffeee0002c01ab"/>
+			<StateAcusticAlarm UUID="09a875ee-003c-0719-ffffeee0002c01ab"/>
+			<StateOpticAlarm UUID="09a875ee-003c-071a-ffffeee0002c01ab"/>
+			<StateInternalAlarm UUID="09a875ee-003c-071b-ffffeee0002c01ab"/>
+			<StateExternalAlarm UUID="09a875ee-003c-071c-ffffeee0002c01ab"/>
+			<StateRemoteAlarm UUID="09a875ee-003c-071d-ffffeee0002c01ab"/>
+			<StateNum UUID="09a875ee-003c-071e-ffffeee0002c01ab"/>
+			<StateTestAlarm UUID="09a875ee-003c-071f-ffffeee0002c01ab"/>
+			<StateDelay UUID="09a875ee-003c-0720-ffffeee0002c01ab"/>
+			<StateMovement UUID="09a875ee-003c-06fe-ffffeee0002c01ab"/>
+			<StateGlasses UUID="09a875ee-003c-06ff-ffffeee0002c01ab"/>
+			<StateWindows UUID="09a875ee-003c-0700-ffffeee0002c01ab"/>
+			<StateDoors UUID="09a875ee-003c-0701-ffffeee0002c01ab"/>
+			<StateMisc UUID="09a875ee-003c-0701-ffffeee0002c01ab"/>
+		</Function>
+		<Function $u="admin," $w="admin," name="Living room" stat="1" room="4" cat="3" UUIDaction="09a875ee-003c-0731-ffffeee0002c01ab" Type="IRoomcontroller">
+			<Content Name="Temperatur" UUID="09a875ee-003c-0735-ffffeee0002c01ab" Index="0" Format="%.1f°C"/>
+			<StateSoll UUID="09a875ee-003c-0751-ffffeee0002c01ab"/>
+			<StateIst UUID="09a875ee-003c-0735-ffffeee0002c01ab"/>
+			<StatePos UUID="09a875ee-003c-0746-ffffeee0002c01ab"/>
+			<StatePos2 UUID="09a875ee-003c-0748-ffffeee0002c01ab"/>
+			<StateError UUID="09a875ee-003c-074f-ffffeee0002c01ab"/>
+			<StateMode UUID="09a875ee-003c-074d-ffffeee0002c01ab"/>
+			<StateServiceMode UUID="09a875ee-003c-074e-ffffeee0002c01ab"/>
+			<StatePosC UUID="09a875ee-003c-074a-ffffeee0002c01ab"/>
+			<StateTempMode UUID="09a875ee-003c-0752-ffffeee0002c01ab"/>
+			<StateTempModeC UUID="09a875ee-003c-0753-ffffeee0002c01ab"/>
+			<StateTempModeIx UUID="09a875ee-003c-075a-ffffeee0002c01ab"/>
+			<StateTempModeCIx UUID="09a875ee-003c-075b-ffffeee0002c01ab"/>
+			<StateTimer UUID="09a875ee-003c-0754-ffffeee0002c01ab"/>
+			<StatePrev UUID="09a875ee-003c-0755-ffffeee0002c01ab"/>
+			<StateWindow UUID="09a875ee-003c-0736-ffffeee0002c01ab"/>
+			<Temperatures>
+				<Temp nr="0" UUID="09a875ee-003c-073b-ffffeee0002c01ab"/>
+				<Temp nr="1" UUID="09a875ee-003c-073c-ffffeee0002c01ab" absolute="true"/>
+				<Temp nr="2" UUID="09a875ee-003c-073d-ffffeee0002c01ab" absolute="true"/>
+				<Temp nr="3" UUID="09a875ee-003c-0740-ffffeee0002c01ab" absolute="true"/>
+				<Temp nr="4" UUID="09a875ee-003c-0741-ffffeee0002c01ab" absolute="true"/>
+				<Temp nr="5" UUID="09a875ee-003c-073f-ffffeee0002c01ab"/>
+				<Temp nr="6" UUID="09a875ee-003c-073e-ffffeee0002c01ab"/>
+			</Temperatures>
+			<Daytimer type="heating" UUID="09a875ee-003c-0756-ffffeee0002c01ab" modes="10">
+				<StateMode>09a875ee-003c-0758-ffffeee0002c01ab</StateMode>
+				<mode nr="-3" name="Frost setting"/>
+				<mode nr="-4" name="Increased heating demand"/>
+				<mode nr="-5" name="Party"/>
+				<mode nr="3" name="Monday"/>
+				<mode nr="4" name="Tuesday"/>
+				<mode nr="5" name="Wednesday"/>
+				<mode nr="6" name="Thursday"/>
+				<mode nr="7" name="Friday"/>
+				<mode nr="8" name="Saturday"/>
+				<mode nr="9" name="Sunday"/>
+			</Daytimer>
+			<Daytimer type="cooling" UUID="09a875ee-003c-0757-ffffeee0002c01ab" modes="10">
+				<StateMode>09a875ee-003c-0759-ffffeee0002c01ab</StateMode>
+				<mode nr="-3" name="Frost setting"/>
+				<mode nr="-4" name="Increased heating demand"/>
+				<mode nr="-5" name="Party"/>
+				<mode nr="3" name="Monday"/>
+				<mode nr="4" name="Tuesday"/>
+				<mode nr="5" name="Wednesday"/>
+				<mode nr="6" name="Thursday"/>
+				<mode nr="7" name="Friday"/>
+				<mode nr="8" name="Saturday"/>
+				<mode nr="9" name="Sunday"/>
+			</Daytimer>
+		</Function>
+		<Function $u="admin," $w="admin," name="Lighting controller" room="5" cat="4" UUIDaction="09a875ee-003c-0890-ffffeee0002c01ab" Type="LightController" Scenes="8">
+			<StateStep UUID="09a875ee-003c-08b1-ffffeee0002c01ab"/>
+			<StateMin UUID="09a875ee-003c-08b3-ffffeee0002c01ab"/>
+			<StateMax UUID="09a875ee-003c-08b4-ffffeee0002c01ab"/>
+			<Scene nr="1" name="Present green"/>
+			<Scene nr="2" name="Red and white"/>
+			<Scene nr="3" name="Light blue"/>
+			<Scene nr="4" name="Pink and LED"/>
+			<Scene nr="5" name="Blue and warm white"/>
+			<Scene nr="6" name="Yellow"/>
+			<Scene nr="7" name="Orange and LED"/>
+			<Scene nr="8" name="Red"/>
+			<StateScene UUID="09a875ee-003c-08c9-ffffeee0002c01ab"/>
+			<State nr="1" name="LED RGB" UUID="09a875ee-003c-08bd-ffffeee0002c01ab" type="RGB"/>
+			<State nr="2" name="LED" UUID="09a875ee-003c-08be-ffffeee0002c01ab" type="Dimmer"/>
+			<State nr="3" name="LED W" UUID="09a875ee-003c-08bf-ffffeee0002c01ab" type="Dimmer"/>
+		</Function>
+		<Function $u="admin," $w="admin," name="Color change" room="5" cat="6" rating="5" UUIDaction="09d3f461-024b-0797-ffffeee0002c01ab" Type="PushbuttonB">
+			<State UUID="09d3f461-024b-079e-ffffeee0002c01ab"/>
+		</Function>
+		<Function $u="admin," $w="admin," name="Duration Timer" room="5" cat="6" rating="5" UUIDaction="09a875ee-003b-0674-ffffeee0002c01ab">
+			<detail Type="LeftRight" Min="0" Max="30" Step="1" UUIDerror="09a875ee-003b-0676-ffffeee0002c01ab" Refresh="50" Format="%.0f min"/>
+		</Function>
+		<Function $u="admin," $w="admin," name="Sauna controller" room="5" cat="6" UUIDaction="09a875ee-003c-07f6-ffffeee0002c01ab" Type="Sauna">
+			<StatePower UUID="09a875ee-003c-080a-ffffeee0002c01ab"/>
+			<StateTemp UUID="09a875ee-003c-07f9-ffffeee0002c01ab"/>
+			<StateBench UUID="09a875ee-003c-07fd-ffffeee0002c01ab"/>
+			<StateDry UUID="09a875ee-003c-0811-ffffeee0002c01ab"/>
+			<StateFan UUID="09a875ee-003c-080f-ffffeee0002c01ab"/>
+			<StateDoor UUID="09a875ee-003c-07fc-ffffeee0002c01ab"/>
+			<StatePresence UUID="09a875ee-003c-07fe-ffffeee0002c01ab"/>
+			<StateError UUID="09a875ee-003c-0812-ffffeee0002c01ab"/>
+			<StateTimer UUID="09a875ee-003c-0810-ffffeee0002c01ab"/>
+			<StateTarget UUID="09a875ee-003c-0813-ffffeee0002c01ab"/>
+			<StateActive UUID="09a875ee-003c-080e-ffffeee0002c01ab"/>
+		</Function>
+		<Function $u="admin," $w="admin," name="Steady Change" room="5" cat="6" rating="5" UUIDaction="09a875ee-003b-0671-ffffeee0002c01ab">
+			<detail Type="LeftRight" Min="0" Max="180" Step="5" UUIDerror="09a875ee-003b-0673-ffffeee0002c01ab" Refresh="50" Format="%.0f sec"/>
+		</Function>
+	</Functions>
+</LoxLIVE>
+<UUIDs>
+	<UUID n="1" UUID="09a875ee-003b-067f-ffffeee0002c01ab"/>
+	<UUID n="2" UUID="09a8f400-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="3" UUID="09a8f500-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="4" UUID="09a8f600-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="5" UUID="09a8f000-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="6" UUID="09a80000-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="7" UUID="09a80001-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="8" UUID="09a80002-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="9" UUID="09a80003-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="10" UUID="09a80004-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="11" UUID="09a80005-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="12" UUID="09a80006-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="13" UUID="09a80008-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="14" UUID="09a8f100-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="15" UUID="09a80110-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="16" UUID="09a80111-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="17" UUID="09a80211-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="18" UUID="09a80112-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="19" UUID="09a80113-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="20" UUID="09a80114-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="21" UUID="09a80115-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="22" UUID="09a80116-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="23" UUID="09a80118-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="24" UUID="09a80120-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="25" UUID="09a80121-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="26" UUID="09a80221-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="27" UUID="09a80122-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="28" UUID="09a80123-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="29" UUID="09a80124-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="30" UUID="09a80125-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="31" UUID="09a80126-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="32" UUID="09a80128-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="33" UUID="09a80130-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="34" UUID="09a80131-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="35" UUID="09a80231-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="36" UUID="09a80132-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="37" UUID="09a80133-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="38" UUID="09a80134-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="39" UUID="09a80135-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="40" UUID="09a80136-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="41" UUID="09a80138-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="42" UUID="09a80140-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="43" UUID="09a80141-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="44" UUID="09a80241-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="45" UUID="09a80142-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="46" UUID="09a80143-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="47" UUID="09a80144-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="48" UUID="09a80145-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="49" UUID="09a80146-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="50" UUID="09a80148-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="51" UUID="09a80150-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="52" UUID="09a80151-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="53" UUID="09a80251-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="54" UUID="09a80152-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="55" UUID="09a80153-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="56" UUID="09a80154-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="57" UUID="09a80155-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="58" UUID="09a80156-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="59" UUID="09a80158-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="60" UUID="09a8f101-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="61" UUID="09a80160-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="62" UUID="09a80161-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="63" UUID="09a80261-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="64" UUID="09a80162-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="65" UUID="09a80163-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="66" UUID="09a80164-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="67" UUID="09a80165-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="68" UUID="09a80166-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="69" UUID="09a80168-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="70" UUID="09a80170-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="71" UUID="09a80171-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="72" UUID="09a80271-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="73" UUID="09a80172-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="74" UUID="09a80173-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="75" UUID="09a80174-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="76" UUID="09a80175-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="77" UUID="09a80176-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="78" UUID="09a80178-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="79" UUID="09a80180-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="80" UUID="09a80181-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="81" UUID="09a80281-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="82" UUID="09a80182-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="83" UUID="09a80183-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="84" UUID="09a80184-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="85" UUID="09a80185-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="86" UUID="09a80186-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="87" UUID="09a80188-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="88" UUID="09a80190-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="89" UUID="09a80191-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="90" UUID="09a80291-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="91" UUID="09a80192-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="92" UUID="09a80193-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="93" UUID="09a80194-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="94" UUID="09a80195-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="95" UUID="09a80196-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="96" UUID="09a80198-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="97" UUID="09a801a0-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="98" UUID="09a801a1-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="99" UUID="09a802a1-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="100" UUID="09a801a2-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="101" UUID="09a801a3-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="102" UUID="09a801a4-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="103" UUID="09a801a5-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="104" UUID="09a801a6-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="105" UUID="09a801a8-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="106" UUID="09a8f102-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="107" UUID="09a801b0-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="108" UUID="09a801b1-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="109" UUID="09a802b1-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="110" UUID="09a801b2-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="111" UUID="09a801b3-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="112" UUID="09a801b4-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="113" UUID="09a801b5-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="114" UUID="09a801b6-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="115" UUID="09a801b8-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="116" UUID="09a801c0-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="117" UUID="09a801c1-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="118" UUID="09a802c1-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="119" UUID="09a801c2-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="120" UUID="09a801c3-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="121" UUID="09a801c4-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="122" UUID="09a801c5-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="123" UUID="09a801c6-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="124" UUID="09a801c8-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="125" UUID="09a801d0-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="126" UUID="09a801d1-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="127" UUID="09a802d1-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="128" UUID="09a801d2-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="129" UUID="09a801d3-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="130" UUID="09a801d4-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="131" UUID="09a801d5-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="132" UUID="09a801d6-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="133" UUID="09a801d8-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="134" UUID="09a801e0-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="135" UUID="09a801e1-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="136" UUID="09a802e1-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="137" UUID="09a801e2-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="138" UUID="09a801e3-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="139" UUID="09a801e4-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="140" UUID="09a801e5-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="141" UUID="09a801e6-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="142" UUID="09a801e8-003b-0680-ffffeee0002c01ab"/>
+	<UUID n="143" UUID="09a875ee-003c-06cf-ffffeee0002c01ab"/>
+	<UUID n="144" UUID="09a875ee-003b-0677-ffffeee0002c01ab"/>
+	<UUID n="145" UUID="09a875ee-003c-079a-ffffeee0002c01ab"/>
+	<UUID n="146" UUID="09a875ee-003c-07bc-ffffeee0002c01ab"/>
+	<UUID n="147" UUID="09a875ee-003c-07bd-ffffeee0002c01ab"/>
+	<UUID n="148" UUID="09a875ee-003c-07be-ffffeee0002c01ab"/>
+	<UUID n="149" UUID="09a875ee-003c-07bf-ffffeee0002c01ab"/>
+	<UUID n="150" UUID="09a875ee-003c-07c0-ffffeee0002c01ab"/>
+	<UUID n="151" UUID="09a875ee-003c-07c1-ffffeee0002c01ab"/>
+	<UUID n="152" UUID="09a875ee-003c-07a1-ffffeee0002c01ab"/>
+	<UUID n="153" UUID="09a875ee-003c-06fd-ffffeee0002c01ab"/>
+	<UUID n="154" UUID="09a875ee-003c-0717-ffffeee0002c01ab"/>
+	<UUID n="155" UUID="09a875ee-003c-0718-ffffeee0002c01ab"/>
+	<UUID n="156" UUID="09a875ee-003c-0719-ffffeee0002c01ab"/>
+	<UUID n="157" UUID="09a875ee-003c-071a-ffffeee0002c01ab"/>
+	<UUID n="158" UUID="09a875ee-003c-071b-ffffeee0002c01ab"/>
+	<UUID n="159" UUID="09a875ee-003c-071c-ffffeee0002c01ab"/>
+	<UUID n="160" UUID="09a875ee-003c-071d-ffffeee0002c01ab"/>
+	<UUID n="161" UUID="09a875ee-003c-071e-ffffeee0002c01ab"/>
+	<UUID n="162" UUID="09a875ee-003c-071f-ffffeee0002c01ab"/>
+	<UUID n="163" UUID="09a875ee-003c-0720-ffffeee0002c01ab"/>
+	<UUID n="164" UUID="09a875ee-003c-06fe-ffffeee0002c01ab"/>
+	<UUID n="165" UUID="09a875ee-003c-06ff-ffffeee0002c01ab"/>
+	<UUID n="166" UUID="09a875ee-003c-0700-ffffeee0002c01ab"/>
+	<UUID n="167" UUID="09a875ee-003c-0701-ffffeee0002c01ab"/>
+	<UUID n="168" UUID="09a875ee-003c-0731-ffffeee0002c01ab"/>
+	<UUID n="169" UUID="09a875ee-003c-0751-ffffeee0002c01ab"/>
+	<UUID n="170" UUID="09a875ee-003c-0735-ffffeee0002c01ab"/>
+	<UUID n="171" UUID="09a875ee-003c-0746-ffffeee0002c01ab"/>
+	<UUID n="172" UUID="09a875ee-003c-0748-ffffeee0002c01ab"/>
+	<UUID n="173" UUID="09a875ee-003c-074f-ffffeee0002c01ab"/>
+	<UUID n="174" UUID="09a875ee-003c-074d-ffffeee0002c01ab"/>
+	<UUID n="175" UUID="09a875ee-003c-074e-ffffeee0002c01ab"/>
+	<UUID n="176" UUID="09a875ee-003c-074a-ffffeee0002c01ab"/>
+	<UUID n="177" UUID="09a875ee-003c-0752-ffffeee0002c01ab"/>
+	<UUID n="178" UUID="09a875ee-003c-0753-ffffeee0002c01ab"/>
+	<UUID n="179" UUID="09a875ee-003c-075a-ffffeee0002c01ab"/>
+	<UUID n="180" UUID="09a875ee-003c-075b-ffffeee0002c01ab"/>
+	<UUID n="181" UUID="09a875ee-003c-0754-ffffeee0002c01ab"/>
+	<UUID n="182" UUID="09a875ee-003c-0755-ffffeee0002c01ab"/>
+	<UUID n="183" UUID="09a875ee-003c-0736-ffffeee0002c01ab"/>
+	<UUID n="184" UUID="09a875ee-003c-073b-ffffeee0002c01ab"/>
+	<UUID n="185" UUID="09a875ee-003c-073c-ffffeee0002c01ab"/>
+	<UUID n="186" UUID="09a875ee-003c-073d-ffffeee0002c01ab"/>
+	<UUID n="187" UUID="09a875ee-003c-0740-ffffeee0002c01ab"/>
+	<UUID n="188" UUID="09a875ee-003c-0741-ffffeee0002c01ab"/>
+	<UUID n="189" UUID="09a875ee-003c-073f-ffffeee0002c01ab"/>
+	<UUID n="190" UUID="09a875ee-003c-073e-ffffeee0002c01ab"/>
+	<UUID n="191" UUID="09a875ee-003c-0756-ffffeee0002c01ab"/>
+	<UUID n="192" UUID="09a875ee-003c-0758-ffffeee0002c01ab"/>
+	<UUID n="193" UUID="09a875ee-003c-0757-ffffeee0002c01ab"/>
+	<UUID n="194" UUID="09a875ee-003c-0759-ffffeee0002c01ab"/>
+	<UUID n="195" UUID="09a875ee-003c-0890-ffffeee0002c01ab"/>
+	<UUID n="196" UUID="09a875ee-003c-08b1-ffffeee0002c01ab"/>
+	<UUID n="197" UUID="09a875ee-003c-08b3-ffffeee0002c01ab"/>
+	<UUID n="198" UUID="09a875ee-003c-08b4-ffffeee0002c01ab"/>
+	<UUID n="199" UUID="09a875ee-003c-08c9-ffffeee0002c01ab"/>
+	<UUID n="200" UUID="09a875ee-003c-08bd-ffffeee0002c01ab"/>
+	<UUID n="201" UUID="09a875ee-003c-08be-ffffeee0002c01ab"/>
+	<UUID n="202" UUID="09a875ee-003c-08bf-ffffeee0002c01ab"/>
+	<UUID n="203" UUID="09d3f461-024b-0797-ffffeee0002c01ab"/>
+	<UUID n="204" UUID="09d3f461-024b-079e-ffffeee0002c01ab"/>
+	<UUID n="205" UUID="09a875ee-003b-0674-ffffeee0002c01ab"/>
+	<UUID n="206" UUID="09a875ee-003b-0676-ffffeee0002c01ab"/>
+	<UUID n="207" UUID="09a875ee-003c-07f6-ffffeee0002c01ab"/>
+	<UUID n="208" UUID="09a875ee-003c-080a-ffffeee0002c01ab"/>
+	<UUID n="209" UUID="09a875ee-003c-07f9-ffffeee0002c01ab"/>
+	<UUID n="210" UUID="09a875ee-003c-07fd-ffffeee0002c01ab"/>
+	<UUID n="211" UUID="09a875ee-003c-0811-ffffeee0002c01ab"/>
+	<UUID n="212" UUID="09a875ee-003c-080f-ffffeee0002c01ab"/>
+	<UUID n="213" UUID="09a875ee-003c-07fc-ffffeee0002c01ab"/>
+	<UUID n="214" UUID="09a875ee-003c-07fe-ffffeee0002c01ab"/>
+	<UUID n="215" UUID="09a875ee-003c-0812-ffffeee0002c01ab"/>
+	<UUID n="216" UUID="09a875ee-003c-0810-ffffeee0002c01ab"/>
+	<UUID n="217" UUID="09a875ee-003c-0813-ffffeee0002c01ab"/>
+	<UUID n="218" UUID="09a875ee-003c-080e-ffffeee0002c01ab"/>
+	<UUID n="219" UUID="09a875ee-003b-0671-ffffeee0002c01ab"/>
+	<UUID n="220" UUID="09a875ee-003b-0673-ffffeee0002c01ab"/>
+</UUIDs>
